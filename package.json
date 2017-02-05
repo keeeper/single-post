@@ -1,7 +1,7 @@
 {
-  "name": "dev-challenge-x",
+  "name": "single-post",
   "version": "1.0.0",
-  "description": "qualification",
+  "description": "",
   "main": "gulpfile.js",
   "author": "",
   "devDependencies": {
